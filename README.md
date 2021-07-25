@@ -1,4 +1,4 @@
-# JavaScript Project Ideas.github
+# JavaScript Project Ideas
 
 ## Beginners
 
