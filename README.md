@@ -1,3 +1,6 @@
+![](banner.png)
+
+
 # JavaScript Project Ideas
 
 ## Beginners
